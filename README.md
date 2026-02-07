@@ -97,5 +97,7 @@ GitHub (Version Control and Documentation)
 This project successfully demonstrates the design and verification of a UART communication system using Verilog HDL. The modular architecture and FSM-based control provide a clear understanding of UART operation. The design serves as a strong foundation for further extensions such as FPGA implementation or configurable baud rate support.
 
 **Author**
+
 Aman Kumar
+
 Microelectronics and VLSI Engineering
